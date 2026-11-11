@@ -1,0 +1,12 @@
+name: voxitem
+description: Pure Dart spatial 2D grid inventory, item stacking/rotation, equipment slots, weighted loot tables, crafting recipes, and RPG stat modifier pipelines.
+version: 0.1.0
+repository: https://github.com/soulwax/voxitem
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
