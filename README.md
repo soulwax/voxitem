@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxitem logo"/>
+</p>
+
 # voxitem
 
 Pure Dart RPG & survival inventory toolkit: spatial 2D grid containers, item stacking/rotation, equipment slots, weighted loot drops, tag-aware crafting recipes, and hierarchical stat modifier pipelines.
